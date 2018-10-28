@@ -1,5 +1,11 @@
 ## Welcome to GitHub Pages
 
+
+** 这是一个GitHub Pages搭建的博客 **
+
+在这里你可以使用*MarkDown*语法编辑博客!
+
+
 You can use the [editor on GitHub](https://github.com/sghyp/sghyp.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
